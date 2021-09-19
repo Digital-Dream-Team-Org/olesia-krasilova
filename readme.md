@@ -1,2 +1,3 @@
-Simple gulp bundler for static web page building
-Gulp version - 4
+# Krasilova
+
+Krasilova turn key project
