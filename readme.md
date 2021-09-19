@@ -1,3 +1,3 @@
 # Krasilova
 
-Krasilova turn key project
+Olesia Krasilova turn key project
